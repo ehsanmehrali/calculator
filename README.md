@@ -1,2 +1,0 @@
-# calculator
-masterschool, Codio exercise
